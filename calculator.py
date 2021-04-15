@@ -7,4 +7,4 @@ def calc(a,b):
 
     list calclist = [sum,difference,mult,div]
 
-    
+    tdifference = sum - difference - mult - div
