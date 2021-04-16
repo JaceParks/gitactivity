@@ -5,3 +5,5 @@ def divide(c, d):
 
     gains = total / e
 
+def print(tobeprinted):
+    print(tobeprinted)
